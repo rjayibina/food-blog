@@ -66,4 +66,4 @@ This is a demo project created for educational and portfolio purposes. No licens
 
 ---
 
-Created with ❤️ by Rjay Ibina | Full-Stack Developer
+Created by Rjay Ibina | Full-Stack Developer
