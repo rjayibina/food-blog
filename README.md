@@ -20,17 +20,18 @@ A clean and simple HTML/CSS-based food blog featuring a styled archive page and 
 
 ## 📁 Project Structure
 
-delicious-food-blog/
+food-blog/
 ├── archive.html
-├── index.html (optional)
 ├── ultimate-burger.html
 ├── cheesy-pizza.html
 ├── ... (other recipe posts)
 ├── assets/
-│ ├── archive.css
+│ ├── icon
+    ├── food-truck.png
 │ ├── single-post.css
-│ ├── favicon.ico
-│ └── images/ (optional)
+│ ├── archive.css
+│ └── images/
+    ├── ... (food images)
 
 
 ## 🛠 Usage
