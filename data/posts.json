@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lemon Tart",
+    "description": "Tangy and sweet dessert with flaky crust.",
+    "image": "./assets/images/lemon-tart.webp",
+    "link": "./recipes/lemon-tart.html"
+  },
+  {
+    "title": "Classic Lasagna",
+    "description": "Layered pasta, cheese, and rich meat sauce.",
+    "image": "./assets/images/classic-lasagna.jpg",
+    "link": "./recipes/classic-lasagna.html"
+  },
+  {
+    "title": "Avocado Toast",
+    "description": "Crispy toast topped with smashed avocado.",
+    "image": "./assets/images/avocado-toast.jpg",
+    "link": "./recipes/avocado-toast.html"
+  },
+  {
+    "title": "BBQ Ribs",
+    "description": "Sticky, smoky ribs cooked to perfection.",
+    "image": "./assets/images/bbq-ribs.webp",
+    "link": "./recipes/bbq-ribs.html"
+  },
+  {
+    "title": "Greek Salad",
+    "description": "Fresh veggies, olives, and feta cheese.",
+    "image": "./assets/images/greek-salad.jpg",
+    "link": "./recipes/greek-salad.html"
+  },
+  {
+    "title": "Berry Smoothie",
+    "description": "A healthy and refreshing drink.",
+    "image": "./assets/images/berry-smoothie.jpg",
+    "link": "./recipes/berry-smoothie.html"
+  },
+  {
+    "title": "Mac & Cheese",
+    "description": "Creamy comfort food loved by all.",
+    "image": "./assets/images/mac-and-cheese.jpg",
+    "link": "./recipes/mac-and-cheese.html"
+  },
+  {
+    "title": "Fruit Tart",
+    "description": "Colorful, fresh fruit on pastry cream.",
+    "image": "./assets/images/fruit-tart.avif",
+    "link": "./recipes/fruit-tart.html"
+  }
+]

@@ -21,6 +21,11 @@
 }
 /* scrollbar design ends */
 
+button:disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
 body {
   font-family: "Segoe UI", sans-serif;
   margin: 0;
