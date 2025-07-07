@@ -1,3 +1,26 @@
+/* scrollbar design */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff3e6;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f45b69;
+  border: 2px solid #fff3e6;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #f45b69;
+}
+
+* {
+  scrollbar-color: #f45b69 #f8e9e9;
+}
+/* scrollbar design ends */
+
 body {
   font-family: "Segoe UI", sans-serif;
   margin: 0;
